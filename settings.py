@@ -11,5 +11,5 @@ user = 'ATM'
 secret = 'MMtlcmm'
 
 #arquivo para registro de logs
-file_logs = '/atmconfs/scripts/python/servicos/ini_asterisk.log'
+file_logs = '/atmconfs/scripts/python/init_asterisk/ini_asterisk.log'
 
