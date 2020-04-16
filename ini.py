@@ -12,6 +12,8 @@ logging.basicConfig(
 itens = settings.itens
 fail_status = settings.fail_status
 
+logging.debug('paramethers: item={}, status={}'.format(' - ', 'init'))
+
 def settings2dict(response, div=':'):
   response = response.strip().split(div)
   for item in itens:
