@@ -1,0 +1,64 @@
+2019-08-12 12:36:45,100 DEBUG asterisk_restart => paramethers: item=sip settings, status=fail
+2019-08-12 12:36:47,213 DEBUG asterisk_restart => paramethers: item=restart, status=0
+2019-08-12 12:39:01,624 DEBUG asterisk_restart => paramethers: item=sip settings, status=fail
+2019-08-12 12:39:03,719 DEBUG asterisk_restart => paramethers: item=restart, status=0
+2019-11-22 17:10:22,708 DEBUG asterisk_restart => paramethers: item=sip settings, status=fail
+2019-11-22 17:10:25,205 DEBUG asterisk_restart => paramethers: item=restart, status=0
+2019-11-22 17:12:02,376 DEBUG asterisk_restart => paramethers: item=sip settings, status=fail
+2019-11-22 17:12:04,488 DEBUG asterisk_restart => paramethers: item=restart, status=0
+2019-12-28 20:15:33,674 DEBUG asterisk_restart => paramethers: item=sip settings, status=fail
+2019-12-28 20:15:35,918 DEBUG asterisk_restart => paramethers: item=restart, status=0
+2019-12-28 20:18:02,202 DEBUG asterisk_restart => paramethers: item=sip settings, status=fail
+2019-12-28 20:18:04,321 DEBUG asterisk_restart => paramethers: item=restart, status=0
+2020-01-03 12:11:57,993 DEBUG asterisk_restart => paramethers: item=sip settings, status=fail
+2020-01-03 12:12:00,416 DEBUG asterisk_restart => paramethers: item=restart, status=0
+2020-01-03 12:12:01,981 DEBUG asterisk_restart => paramethers: item=sip settings, status=fail
+2020-01-03 12:12:04,166 DEBUG asterisk_restart => paramethers: item=restart, status=0
+2020-01-03 18:06:08,285 DEBUG asterisk_restart => paramethers: item=sip settings, status=fail
+2020-01-03 18:06:10,665 DEBUG asterisk_restart => paramethers: item=restart, status=0
+2020-01-03 18:09:01,957 DEBUG asterisk_restart => paramethers: item=sip settings, status=fail
+2020-01-03 18:09:04,180 DEBUG asterisk_restart => paramethers: item=restart, status=0
+2020-01-03 18:12:02,289 DEBUG asterisk_restart => paramethers: item=sip settings, status=fail
+2020-01-03 18:12:04,363 DEBUG asterisk_restart => paramethers: item=restart, status=0
+2020-01-03 18:43:59,977 DEBUG asterisk_restart => paramethers: item=sip settings, status=fail
+2020-01-03 18:44:02,217 DEBUG asterisk_restart => paramethers: item=restart, status=0
+2020-01-03 18:45:02,072 DEBUG asterisk_restart => paramethers: item=sip settings, status=fail
+2020-01-03 18:45:04,225 DEBUG asterisk_restart => paramethers: item=restart, status=0
+2020-01-03 18:48:02,149 DEBUG asterisk_restart => paramethers: item=sip settings, status=fail
+2020-01-03 18:48:04,229 DEBUG asterisk_restart => paramethers: item=restart, status=0
+2020-01-06 08:15:35,302 DEBUG asterisk_restart => paramethers: item=sip settings, status=fail
+2020-01-06 08:15:37,560 DEBUG asterisk_restart => paramethers: item=restart, status=0
+2020-01-06 08:18:02,137 DEBUG asterisk_restart => paramethers: item=sip settings, status=fail
+2020-01-06 08:18:04,324 DEBUG asterisk_restart => paramethers: item=restart, status=0
+2020-02-28 17:55:15,372 DEBUG asterisk_restart => paramethers: item=sip settings, status=fail
+2020-02-28 17:55:17,582 DEBUG asterisk_restart => paramethers: item=restart, status=0
+2020-02-28 17:57:01,772 DEBUG asterisk_restart => paramethers: item=sip settings, status=fail
+2020-02-28 17:57:03,863 DEBUG asterisk_restart => paramethers: item=restart, status=0
+2020-03-11 15:00:18,782 DEBUG asterisk_restart => paramethers: item=sip settings, status=fail
+2020-03-11 15:00:21,120 DEBUG asterisk_restart => paramethers: item=restart, status=0
+2020-03-11 15:03:02,143 DEBUG asterisk_restart => paramethers: item=sip settings, status=fail
+2020-03-11 15:03:04,237 DEBUG asterisk_restart => paramethers: item=restart, status=0
+2020-03-11 22:13:59,829 DEBUG asterisk_restart => paramethers: item=sip settings, status=fail
+2020-03-11 22:14:02,181 DEBUG asterisk_restart => paramethers: item=restart, status=0
+2020-03-11 22:15:02,529 DEBUG asterisk_restart => paramethers: item=sip settings, status=fail
+2020-03-11 22:15:04,679 DEBUG asterisk_restart => paramethers: item=restart, status=0
+2020-03-25 23:09:20,849 DEBUG asterisk_restart => paramethers: item=sip settings, status=fail
+2020-03-25 23:09:23,022 DEBUG asterisk_restart => paramethers: item=restart, status=0
+2020-03-25 23:12:02,020 DEBUG asterisk_restart => paramethers: item=sip settings, status=fail
+2020-03-25 23:12:04,100 DEBUG asterisk_restart => paramethers: item=restart, status=0
+2020-03-29 00:16:27,693 DEBUG asterisk_restart => paramethers: item=sip settings, status=fail
+2020-03-29 00:16:29,869 DEBUG asterisk_restart => paramethers: item=restart, status=0
+2020-03-29 00:18:02,092 DEBUG asterisk_restart => paramethers: item=sip settings, status=fail
+2020-03-29 00:18:04,231 DEBUG asterisk_restart => paramethers: item=restart, status=0
+2020-03-30 14:34:14,134 DEBUG asterisk_restart => paramethers: item=sip settings, status=fail
+2020-03-30 14:34:16,429 DEBUG asterisk_restart => paramethers: item=restart, status=0
+2020-03-30 14:36:02,255 DEBUG asterisk_restart => paramethers: item=sip settings, status=fail
+2020-03-30 14:36:04,354 DEBUG asterisk_restart => paramethers: item=restart, status=0
+2020-03-31 16:58:09,000 DEBUG asterisk_restart => paramethers: item=sip settings, status=fail
+2020-03-31 16:58:11,383 DEBUG asterisk_restart => paramethers: item=restart, status=0
+2020-03-31 17:00:02,616 DEBUG asterisk_restart => paramethers: item=sip settings, status=fail
+2020-03-31 17:00:04,755 DEBUG asterisk_restart => paramethers: item=restart, status=0
+2020-04-10 17:17:13,824 DEBUG asterisk_restart => paramethers: item=sip settings, status=fail
+2020-04-10 17:17:16,093 DEBUG asterisk_restart => paramethers: item=restart, status=0
+2020-04-10 17:18:02,272 DEBUG asterisk_restart => paramethers: item=sip settings, status=fail
+2020-04-10 17:18:04,398 DEBUG asterisk_restart => paramethers: item=restart, status=0
