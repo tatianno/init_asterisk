@@ -23,12 +23,15 @@ fail_status = ['UNKNOWN','UNREACHABLE','(null)']
 
 - Dados de conexao com o manager do Asterisk
 
+`server = '127.0.0.1'`
+
+`port = '5038'`
+
+`user = < usuario configurado no manager.conf >`
+
+`secret = < senha configurada no manager.conf >`
 `
-server = '127.0.0.1'
-port = '5038'
-user = < usuario configurado no manager.conf >
-secret = < senha configurada no manager.conf >
-`
+
 - Arquivo para registro de logs
 
 `
